@@ -1,0 +1,1 @@
+# data-platform-api-friend-creates-rmq-kube
